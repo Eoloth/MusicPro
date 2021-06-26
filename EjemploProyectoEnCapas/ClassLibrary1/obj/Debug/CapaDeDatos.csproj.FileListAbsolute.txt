@@ -1,0 +1,12 @@
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\CapaDeDatos.dll.config
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\CapaDeDatos.dll
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\CapaDeDatos.pdb
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\obj\Debug\CapaDeDatos.dll
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\obj\Debug\CapaDeDatos.pdb
+C:\Users\Patricio\OneDrive\DUOC\Integracion\IntegracionDePlataformas\IPY5101\2021-1\2021_001D\Experiencia 2\EjemploProyectoEnCapas\ClassLibrary1\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
